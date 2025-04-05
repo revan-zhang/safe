@@ -7522,7 +7522,7 @@ __metadata:
     jest: "npm:^29.7.0"
     jest-expo: "npm:~52.0.4"
     lodash: "npm:^4.17.21"
-    moti: "npm:^0.29.0"
+    moti: "npm:^0.30.0"
     react: "npm:18.3.1"
     react-dom: "npm:^18.3.1"
     react-hook-form: "npm:^7.54.2"
@@ -24533,6 +24533,17 @@ __metadata:
   peerDependencies:
     react-native-reanimated: "*"
   checksum: 10/38a7a173739a1ed7c05e3ddb32ef9bb54857dd9a059290c701ffbc97fc36db14902348116f6f0841b1b63bb92355cc469cbbd952a65d6f9ee64b77bda4987456
+  languageName: node
+  linkType: hard
+
+"moti@npm:^0.30.0":
+  version: 0.30.0
+  resolution: "moti@npm:0.30.0"
+  dependencies:
+    framer-motion: "npm:^6.5.1"
+  peerDependencies:
+    react-native-reanimated: "*"
+  checksum: 10/7b892549cc5b898d21991f0f6b6b92f836d0ce58419f99c8888b87f3419a6199ac4e5933b407667f79cbc1c413ee95370ec7603503edfb6b20a6f0dc1ab4acd3
   languageName: node
   linkType: hard
 
