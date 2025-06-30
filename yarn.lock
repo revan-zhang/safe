@@ -7486,7 +7486,7 @@ __metadata:
     "@testing-library/react-native": "npm:^12.7.2"
     "@types/eslint__js": "npm:^8.42.3"
     "@types/jest": "npm:^29.5.12"
-    "@types/lodash": "npm:^4.17.13"
+    "@types/lodash": "npm:^4.17.19"
     "@types/node": "npm:^22.13.1"
     "@types/qrcode": "npm:^1.5.5"
     "@types/react": "npm:~18.3.12"
@@ -7825,7 +7825,7 @@ __metadata:
     "@typechain/ethers-v6": "npm:^0.5.1"
     "@types/jest": "npm:^29.5.4"
     "@types/js-cookie": "npm:^3.0.6"
-    "@types/lodash": "npm:^4.14.182"
+    "@types/lodash": "npm:^4.17.19"
     "@types/mdx": "npm:^2.0.13"
     "@types/node": "npm:22.13.1"
     "@types/qrcode": "npm:^1.5.5"
@@ -11512,10 +11512,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash@npm:^4.14.182, @types/lodash@npm:^4.17.13":
-  version: 4.17.13
-  resolution: "@types/lodash@npm:4.17.13"
-  checksum: 10/ddb34e20810c71be2d9445bcc4b64ec25b83976738454de709854b79c7f655b03704b76235445699956d65012987720e0e429a35489de65495cdb5420202d905
+"@types/lodash@npm:^4.17.19":
+  version: 4.17.19
+  resolution: "@types/lodash@npm:4.17.19"
+  checksum: 10/555e53da60dd9904ef4b6f4e663abb965cf45582079f2ea231a18b0b48df4808b60f36c978548fcf5e307bf12ccd563bd4551963039028ea120b1695c7146f7c
   languageName: node
   linkType: hard
 
